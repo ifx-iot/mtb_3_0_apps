@@ -1,3 +1,6 @@
 [submodule "mtb-wifi-bluetooth-tester"]
 	path = mtb-wifi-bluetooth-tester
 	url = git@github.com:Infineon/mtb-wifi-bluetooth-tester.git
+[submodule "mtb_shared"]
+	path = mtb_shared
+	url = git@github.com:ifx-iot/mtb_shared_3_0.git
