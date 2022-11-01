@@ -1,0 +1,3 @@
+[submodule "mtb-wifi-bluetooth-tester"]
+	path = mtb-wifi-bluetooth-tester
+	url = git@github.com:Infineon/mtb-wifi-bluetooth-tester.git
